@@ -1,0 +1,17 @@
+[project]
+name = "img2img-unet"
+version = "0.1.0"
+description = "Image 2 Image Unet"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "marimo>=0.19.6",
+    "matplotlib>=3.10.8",
+    "mlx>=0.30.3",
+    "numpy>=2.4.1",
+    "opencv-python>=4.13.0.90",
+    "pillow>=12.1.0",
+    "pyzmq>=27.1.0",
+    "seaborn>=0.13.2",
+    "tqdm>=4.67.1",
+]
