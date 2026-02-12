@@ -16,3 +16,4 @@ wheels/
 .DS_Store
 
 landscape-pictures/
+celeba-dataset/
