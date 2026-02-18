@@ -18,3 +18,5 @@ wheels/
 landscape-pictures/
 celeba-dataset/
 UTKFace/
+
+*/.ipynb_checkpoints/
